@@ -217,20 +217,13 @@ main { display: block; }
 .hero-socials svg { width: 20px; height: 20px; }
 
 .hero-visual { display: flex; justify-content: center; }
-.monogram {
+.hero-photo {
   width: min(300px, 70vw);
   aspect-ratio: 1;
   border-radius: 50%;
-  background: radial-gradient(circle at 35% 30%, #26262b, #101012 70%);
+  object-fit: cover;
   border: 1px solid var(--card-border);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-family: "Poppins", sans-serif;
-  font-size: 4.5rem;
-  font-weight: 700;
-  color: #f5f5f5;
-  letter-spacing: 0.02em;
+  display: block;
 }
 
 /* ---------- cards ---------- */
@@ -399,7 +392,7 @@ main { display: block; }
 
   .hero { grid-template-columns: 1fr; padding-top: 3rem; text-align: left; }
   .hero-visual { order: -1; justify-content: flex-start; }
-  .monogram { width: 130px; font-size: 2.2rem; }
+  .hero-photo { width: 130px; }
 
   .cards-4, .cards-3, .cards-2 { grid-template-columns: 1fr; }
   .stats { gap: 2rem; }
