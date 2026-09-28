@@ -219,9 +219,9 @@ main { display: block; }
 .hero-visual { display: flex; justify-content: center; }
 .hero-photo {
   width: min(300px, 70vw);
-  aspect-ratio: 1;
-  border-radius: 50%;
+  height: min(300px, 70vw);
   object-fit: cover;
+  border-radius: 50%;
   border: 1px solid var(--card-border);
   display: block;
 }
@@ -392,7 +392,7 @@ main { display: block; }
 
   .hero { grid-template-columns: 1fr; padding-top: 3rem; text-align: left; }
   .hero-visual { order: -1; justify-content: flex-start; }
-  .hero-photo { width: 130px; }
+  .hero-photo { width: 140px; height: 140px; }
 
   .cards-4, .cards-3, .cards-2 { grid-template-columns: 1fr; }
   .stats { gap: 2rem; }
