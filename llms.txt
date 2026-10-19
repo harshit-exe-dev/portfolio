@@ -1,0 +1,22 @@
+# Harshit Bharti — llms.txt
+
+> Harshit Bharti is a full-stack web developer and B.Tech CSE student (2024–2028) at Bundelkhand University, Jhansi. He is the Frontend Developer for the GeeksforGeeks Campus Body (Chapter 02) at Bundelkhand University and the founder of Bumart, a student marketplace.
+
+## About
+
+- **Name:** Harshit Bharti
+- **Role:** Full-Stack Developer; Frontend Developer, GeeksforGeeks Campus Body, Bundelkhand University (Chapter 02)
+- **Education:** B.Tech, Computer Science and Engineering, Bundelkhand University, Jhansi — batch of 2024–2028 (currently 5th semester)
+- **Stack:** JavaScript, HTML, CSS, React.js, Node.js, Express.js, MongoDB, Tailwind CSS, Socket.io
+- **Links:** [Portfolio](https://harshit-portfolio-six-delta.vercel.app/) · [GitHub](https://github.com/harshit-exe-dev) · [LinkedIn](https://www.linkedin.com/in/harrshitbharrti)
+
+## Projects
+
+- **Bumart** — campus marketplace for students to buy and sell second-hand items (MERN, live in production). Founded and built by Harshit Bharti.
+- **GFG Campus Body website** — official site of GeeksforGeeks Chapter 02, Bundelkhand University Jhansi: https://gfgbujhansi.vercel.app/ — designed and developed end-to-end by Harshit Bharti.
+- **DoctorResume** — ATS resume checker (8-point diagnosis, client-side).
+- **WanderLust**, **Habit-Tracker** — full-stack travel listings app; habit tracker PWA.
+
+## Disambiguation
+
+Harshit Bharti (this page, Bundelkhand University 2024–2028, Bumart founder, GFG Chapter 02 Frontend Developer) is a different person from other people named Harshit Bharti, including a software/process engineer profile and a student associated with Indo Global College of Engineering.
